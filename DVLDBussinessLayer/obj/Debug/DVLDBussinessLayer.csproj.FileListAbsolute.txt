@@ -1,9 +1,0 @@
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\bin\Debug\DVLDBussinessLayer.dll
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\bin\Debug\DVLDBussinessLayer.pdb
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\bin\Debug\DVLDAccessLayer.dll
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\bin\Debug\DVLDAccessLayer.pdb
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\obj\Debug\DVLDBussinessLayer.csproj.AssemblyReference.cache
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\obj\Debug\DVLDBussinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\obj\Debug\DVLDBuss.F42A9AF3.Up2Date
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\obj\Debug\DVLDBussinessLayer.dll
-C:\Users\Ahmed\source\repos\DVLDBussinessLayer\obj\Debug\DVLDBussinessLayer.pdb

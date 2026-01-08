@@ -1,6 +1,0 @@
-C:\Users\Ahmed\source\repos\DVLDAccessLayer\bin\Debug\DVLDAccessLayer.dll
-C:\Users\Ahmed\source\repos\DVLDAccessLayer\bin\Debug\DVLDAccessLayer.pdb
-C:\Users\Ahmed\source\repos\DVLDAccessLayer\obj\Debug\DVLDAccessLayer.csproj.AssemblyReference.cache
-C:\Users\Ahmed\source\repos\DVLDAccessLayer\obj\Debug\DVLDAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\Ahmed\source\repos\DVLDAccessLayer\obj\Debug\DVLDAccessLayer.dll
-C:\Users\Ahmed\source\repos\DVLDAccessLayer\obj\Debug\DVLDAccessLayer.pdb
